@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sicr2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sicr2000" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/sicr2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sicr2000" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/sebastián-ignacio-castro-rajbe-4a90ba113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastián-ignacio-castro-rajbe-4a90ba113e" height="30" width="40" /></a>
 </p>
 
